@@ -1,0 +1,20 @@
+@charset 'utf-8';
+body,dic,p,span,i,ul,ol,li{margin: 0;padding: 0;}
+ul li,ol li{ list-style: none;}
+a{text-decoration: none;color: #000;}
+.fl{float: left;}
+.fr{float: right;}
+.clearfix{
+    content: '';
+    display: block;
+    clear: both;
+}
+.pos-re{
+    position:relative;
+}
+.pos-ab{
+    position:absolute;
+}
+.w100{width:100%;}
+.w50{width: 50%;}
+.h100{height: 100%;}
